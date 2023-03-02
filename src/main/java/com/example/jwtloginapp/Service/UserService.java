@@ -2,8 +2,6 @@ package com.example.jwtloginapp.Service;
 
 import com.example.jwtloginapp.Entity.ApiUser;
 import com.example.jwtloginapp.Entity.Dto.UserDto;
-import com.example.jwtloginapp.Repository.ApiUserRepository;
-import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 @Service
